@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**PabloFDD/PabloFDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá me chamo Pablo e estou tentando entrar nesse mundo vasto e incrível que é o Desenvolvimento / Programação, pra ser mais especifico, o Front-end
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
