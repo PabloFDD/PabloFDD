@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Hi! My name is Pablo Felipe and im trying to be an front-end developer!
+<h1>Hi! My name is Pablo Felipe and im trying to be an front-end developer!</h1>
 
 - 🔭 I’m currently working on improve my front-end skills.
 - 🌱 I’m currently learning HTML/CSS and JavaScript.
-- 🤔 I’m looking for help with at actual moment everything.
+- 🤔 I’m looking for help with everything 😹.
 - 💬 Ask me about Video games
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/pablo-felipe-delboni-dornele-91803214a/">Linkedin</a>
 - 😄 Pronouns: He/Him
