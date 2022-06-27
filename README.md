@@ -8,3 +8,8 @@
 
 - My favorite movie is Fast and Furious: Tokyo Drift.
 - Favorite music Money Trees - Kendrick Lamar.
+
+<h2>Social Medias</h2>
+
+- <a href="https://www.linkedin.com/in/pablo-felipe-delboni-dornele-91803214a/">Linkedin</a>
+- <a href="https://www.twitter.com/pablodelboni">Twitter</a>
